@@ -1,0 +1,11 @@
+button{
+ width: 50px;
+ height: 30px;
+}
+
+.patrat{
+ width: 100px;
+ height: 100px;
+ background-color: green;
+ border: 1px solid black;
+}
